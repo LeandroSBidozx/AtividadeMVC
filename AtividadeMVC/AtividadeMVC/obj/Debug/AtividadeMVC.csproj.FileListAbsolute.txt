@@ -1,0 +1,11 @@
+C:\3anoE\AtividadeMVC\AtividadeMVC\obj\Debug\AtividadeMVC.csproj.AssemblyReference.cache
+C:\3anoE\AtividadeMVC\AtividadeMVC\obj\Debug\AtividadeMVC.csproj.SuggestedBindingRedirects.cache
+C:\3anoE\AtividadeMVC\AtividadeMVC\obj\Debug\AtividadeMVC.Properties.Resources.resources
+C:\3anoE\AtividadeMVC\AtividadeMVC\obj\Debug\AtividadeMVC.csproj.GenerateResource.cache
+C:\3anoE\AtividadeMVC\AtividadeMVC\obj\Debug\AtividadeMVC.csproj.CoreCompileInputs.cache
+C:\3anoE\AtividadeMVC\AtividadeMVC\obj\Debug\AtvidadeMVC.Form1.resources
+C:\3anoE\AtividadeMVC\AtividadeMVC\bin\Debug\AtividadeMVC.exe.config
+C:\3anoE\AtividadeMVC\AtividadeMVC\bin\Debug\AtividadeMVC.exe
+C:\3anoE\AtividadeMVC\AtividadeMVC\bin\Debug\AtividadeMVC.pdb
+C:\3anoE\AtividadeMVC\AtividadeMVC\obj\Debug\AtividadeMVC.exe
+C:\3anoE\AtividadeMVC\AtividadeMVC\obj\Debug\AtividadeMVC.pdb
